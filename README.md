@@ -33,8 +33,6 @@ Quiz Blast is a web-based quiz application built using **PHP**, **HTML**, **CSS*
 5. Open browser and go to:  
    `http://localhost/quiz-blast/`
 
-## Author
-
 **Anshi**  
 CSE Student | Web Developer
 

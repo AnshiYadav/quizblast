@@ -35,7 +35,7 @@ Quiz Blast is a web-based quiz application built using **PHP**, **HTML**, **CSS*
 
 ## Author
 
-**Your Name**  
+**Anshi**  
 CSE Student | Web Developer
 
 ---
